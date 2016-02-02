@@ -3,6 +3,7 @@
 adfTool is a tool which is capable of converting encrypted sound files (.ADF) seen in GTA Vice City (radio stations) to standard .MP3 files. It is also capable of encrypting .MP3 files into .ADF formatted files.
 
 Compiling and installing on Linux: gcc -o adfTool adfTool.c && sudo cp adfTool /bin
+
 Sudo requires administrative priviledges!
 
 For Windows you could use mingw the same way to compile the C code. Later on, copy the adfTool.exe to C:\Windows
